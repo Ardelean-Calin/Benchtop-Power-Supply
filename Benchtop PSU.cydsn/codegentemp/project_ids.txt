@@ -1,0 +1,5 @@
+C:\Users\Calin\Documents\PSoC Creator\PSU\Benchtop PSU.cydsn\Benchtop PSU.cyprj|5eb6c484-4507-465b-a343-7999bf6238d3
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|9bfda6b4-0e9e-4011-9651-7d81f3c82169
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fc71e47b-9b0d-48f2-8d02-5951d896b564
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|bd838501-4c3d-4343-84e1-9540c71ea909
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|92740a08-fa4a-4eef-9453-298a8c7f840b
